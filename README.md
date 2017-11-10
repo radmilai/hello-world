@@ -1,2 +1,2 @@
 # hello-world
-My first GIT repository
+My first changed GIT repository.
